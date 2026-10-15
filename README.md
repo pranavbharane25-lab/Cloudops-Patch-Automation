@@ -24,7 +24,8 @@ Before launching infrastructure components, a secure identity profile named `EC2
 Two enterprise nodes (`Prod-Windows-Server-01` and `Prod-Windows-Server-02`) were launched as a mock production infrastructure cluster. By attaching our custom IAM role, both systems automatically checked into the centralized operational console.
 
 <img width="975" height="444" alt="image" src="https://github.com/user-attachments/assets/994c7214-2ccd-43a8-9aa5-25cbe184bf01" />
-/b
+
+
 <img width="975" height="442" alt="image" src="https://github.com/user-attachments/assets/54ce8c55-8cfb-40f2-aef7-2f355562a635" />
 
 ### 3. Automated Compliance Auditing
